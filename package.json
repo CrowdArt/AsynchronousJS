@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CrowdArt/AsynchronousJS/issues"
   },
-  "homepage": "https://github.com/CrowdArt/AsynchronousJS#readme"
+  "homepage": "https://github.com/CrowdArt/AsynchronousJS#readme",
+  "dependencies": {
+    "node": "^10.12.0"
+  }
 }
